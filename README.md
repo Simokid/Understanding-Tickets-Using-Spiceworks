@@ -7,7 +7,6 @@ This repository documents my home lab focused on **Understanding Tickets Using S
 - **Learn Spiceworks Ticketing System:** Set up and configure Spiceworks to create, manage, and track IT support tickets.
 - **Ticket Management:** Understand how to categorize, prioritize, and assign tickets to team members within a virtualized network environment.
 - **Reporting and Analysis:** Learn how to generate reports on ticket resolution times, trends, and overall support performance.
-- **VirtualBox Setup:** Use VirtualBox to create a test environment with Spiceworks and simulate various IT service scenarios for ticket management.
 
 
 
