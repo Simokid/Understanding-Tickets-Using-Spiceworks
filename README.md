@@ -253,6 +253,6 @@ These are just a few of the many features **Spiceworks Remote Support** offers t
 
 With that, we've successfully completed this home lab, gaining a solid understanding of how the **Spiceworks Ticketing System** and **Remote Support Tool** work.
 
-[Next Lab 14 : Delegate Control and Account Lockout Management](https://github.com/Simokid/Delegate-Control-and-Account-Lockout-Management/blob/main/README.md)
+ 👉 [Next Lab 14 : Delegate Control and Account Lockout Management](https://github.com/Simokid/Delegate-Control-and-Account-Lockout-Management/blob/main/README.md)
 
 
